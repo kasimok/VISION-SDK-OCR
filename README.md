@@ -1,5 +1,6 @@
-# VisionMenu
+# VisionSDK OCR example.
 
-## The idea is to recognize foods on arbitry menu.
+## The code is written to demo the OCR with the latest iOS vision SDK.
+## The project uses Tesseract to recognize text.
 
-> Check the screenshot for current progress
+![Demo](https://github.com/kasimok/VISION-SDK-OCR/blob/master/giphy.gif)
